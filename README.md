@@ -23,7 +23,8 @@ The dashboard is designed for banking analysts, financial managers, and business
   * Month-over-month trend analysis
   * Detailed transaction data with city, currency, month, amount, and remaining balance
   * Multi-dimensional slicers for granular data exploration
-
+## Tech Stack
+-PowerBI
 ## Insights
 * Transaction volumes remained relatively stable throughout 2024, with monthly amounts ranging between 1.60M and 1.71M.​
 * March recorded the highest transaction amount at 1.71M, while August showed the lowest at 1.60M.​
